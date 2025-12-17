@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.python-version
+
+# Cache files
+data_cache.*
+*.pkl
+*.json
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
