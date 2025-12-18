@@ -3,6 +3,10 @@ __pycache__/
 *.pyc
 *.pyo
 
+# Environment variables
+.env
+.envrc
+
 # Folders
 notebooks/
 
